@@ -1,4 +1,36 @@
+< CLASS > : -class-
+< ID > : -myclass-
+< LEFT_CURLY_B > : -{-
+< Error unknown token > : -/*
+my
+ultimate
+comment
+*/-
+< EOL > : End of line
 < INT > : -int-
-< ID > : -intvalue-
+< ID > : -var-
+< RIGHT_ROUND_B > : -)-
+< RIGHT_ROUND_B > : -)-
+< ID > : -XX1-
 < ASSIGNMENT > : -=-
-< Error unknown token > : -10+5;-
+< INTEGRAL_LITERAL > : -0-
+< SEMICOLON > : -;-
+< EOL > : End of line
+< Error unknown token > : -*/-
+< INT > : -int-
+< INTEGRAL_LITERAL > : -3CC1-
+< RIGHT_ROUND_B > : -)-
+< ASSIGNMENT > : -=-
+< INTEGRAL_LITERAL > : -0-
+< SEMICOLON > : -;-
+< EOL > : End of line
+< Error unknown token > : -*/-
+< INTEGRAL_LITERAL > : -10-
+< PLUS > : -+-
+< INTEGRAL_LITERAL > : -5-
+< SEMICOLON > : -;-
+< EOL > : End of line
+< RIGHT_CURLY_B > : -}-
+< EOL > : End of line
+< SEMICOLON > : -;-
+< EOL > : End of line

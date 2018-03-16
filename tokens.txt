@@ -40,7 +40,7 @@ PROTECTED protected
 RETURN return
 STATIC static
 NEW new
-STRING string
+STRING String
 FLOAT float
 CHARACTER char
 BOOLEAN boolean

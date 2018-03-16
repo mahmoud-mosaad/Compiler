@@ -25,3 +25,10 @@
 || >= <= /*>=*/ +
 
 (?=\\/\\*.*/)|(?<=/*.\\*\\/) // FOR COMMENT DETECTION
+
+private || <= => static void mina(int x){int x == 8; System.out.println(\"+48  \");}
+
+System.out.println("hello mina");
+int intvalue = 10+5.5;
+///* comment */
+char ch = 'a';
